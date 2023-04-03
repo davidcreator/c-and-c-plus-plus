@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <math.h>
+
+#define PI 3.14159265
+
+int main() {
+
+   double x, resultado, radianos;
+
+   x = 60.0;
+   radianos = PI/180.0;
+   resultado = sin(x*radianos);
+   printf("O seno de %.2f° é %f radianos\n", x, resultado);
+   
+   x = 45.0;
+   radianos = PI/180.0;
+   resultado = sin(x*radianos);
+   printf("O seno de %.2f° é %f radianos\n", x, resultado);
+   
+   return 0;
+}
+
+/* ----------------------------------- RESUMO DO CÓDIGO --------------------------------
+
+DESCRIÇÃO:
+
+   - A função double sin(double x) retorna o seno do angulo "x" em radianos.
+
+   - Use a tag -lm para compilar
+
+DECLARAÇÃO:
+
+   double sin(double x)
+
+PARÂMETROS:
+
+    x − Este é o valor de ponto flutuante que representa um ângulo expresso em radianos.
+
+RETORNO:
+
+   - Esta função retorna o seno de x
+
+---------------------------------------------------------------------------------------- */

@@ -43,6 +43,17 @@ Durante as aulas, os alunos têm a oportunidade de colocar em prática os concei
     15 - Queue
     16 - Socket
 
+# Bibliotecas
+
+    ctype.h
+    graphics.h
+    math.h
+    personal.h
+    stdio.h
+    stdlib.h
+    string.h
+    time.h
+
 ## Atividades I
     Exercício 1 - Soma
     Exercício 2 - Média
