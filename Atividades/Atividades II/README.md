@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Atividades II
 
 ## Exercício 1 - Publico total de um jogo
@@ -89,7 +88,7 @@ O cardápio de uma lanchonete é o seguinte:
 
 Escrever um algoritmo que leia o código do item pedido e a quantidade.
 
-=======
+
 # Atividades II
 
 ## Exercício 1 - Publico total de um jogo
@@ -180,5 +179,4 @@ O cardápio de uma lanchonete é o seguinte:
 
 Escrever um algoritmo que leia o código do item pedido e a quantidade.
 
->>>>>>> 0022760d633179861383ecd64ba21a7ac7149f23
 Calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item. Caso não seja informado algum código da lista, deve-se informar que o código do lanche é inválido.
