@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Atividades I
 
 ## Exercício 1 - Soma
@@ -75,7 +74,8 @@ Elabore um algoritmo que decomponha o número 1738, informando ao usuário o nú
 Uma escola deseja dividir os alunos de uma série em três turmas.
 Entretanto, deverá ocorrer um equilíbrio no número de alunos em cada turma. Caso ocorra diferença no número de alunos, esta deverá ser a mínima.
 Escreva um algoritmo que leia o número de
-=======
+'====='
+
 # Atividades I
 
 ## Exercício 1 - Soma
@@ -152,5 +152,5 @@ Elabore um algoritmo que decomponha o número 1738, informando ao usuário o nú
 Uma escola deseja dividir os alunos de uma série em três turmas.
 Entretanto, deverá ocorrer um equilíbrio no número de alunos em cada turma. Caso ocorra diferença no número de alunos, esta deverá ser a mínima.
 Escreva um algoritmo que leia o número de
->>>>>>> 0022760d633179861383ecd64ba21a7ac7149f23
+'>>>>>>>>' 0022760d633179861383ecd64ba21a7ac7149f23
 alunos da série, calcule e mostre o número de alunos em cada turma.
